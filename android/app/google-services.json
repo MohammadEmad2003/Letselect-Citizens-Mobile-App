@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464667345495",
+    "project_id": "let-s-elect",
+    "storage_bucket": "let-s-elect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464667345495:android:39278a8544ddd542655912",
+        "android_client_info": {
+          "package_name": "com.example.sql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464667345495-9slfdj6sgomk45umiuffgp7iulvlddn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC2YeNKfBsQGZHg0qKX_UlT-BPmIqkrSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464667345495-9slfdj6sgomk45umiuffgp7iulvlddn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
